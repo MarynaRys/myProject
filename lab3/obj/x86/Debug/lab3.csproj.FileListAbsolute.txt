@@ -1,0 +1,13 @@
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.csprojResolveAssemblyReference.cache
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.Form1.resources
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.Form2.resources
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.Properties.Resources.resources
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.csproj.GenerateResource.Cache
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.Doctor.resources
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.Patient.resources
+E:\studies\Term7\C#\lab3\lab3\bin\Debug\lab3.exe
+E:\studies\Term7\C#\lab3\lab3\bin\Debug\lab3.pdb
+E:\studies\Term7\C#\lab3\lab3\bin\Debug\Mono.Security.dll
+E:\studies\Term7\C#\lab3\lab3\bin\Debug\Npgsql.dll
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.exe
+E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.pdb
