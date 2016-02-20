@@ -13,7 +13,7 @@ namespace lab3
     {
         private Form1 perent = null;
         private int row;
-        private int rrr;
+		private  int Masha;
 
         public Doctor()
         {
@@ -71,11 +71,6 @@ namespace lab3
             perent.AddDoctor(textBox1.Text, textBox2.Text, textBox3.Text);
             perent.FillDataGridView1ByDoctor();
             this.Visible = false;
-
-        }
-
-        private void Doctor_Load(object sender, EventArgs e)
-        {
 
         }
     }
