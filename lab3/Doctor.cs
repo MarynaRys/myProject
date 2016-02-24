@@ -14,6 +14,7 @@ namespace lab3
         private Form1 perent = null;
         private int row;
         private int rrr;
+        private int ttt;
 
         public Doctor()
         {

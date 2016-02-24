@@ -141,6 +141,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Patient";
             this.Text = "Patient";
+            this.Load += new System.EventHandler(this.Patient_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

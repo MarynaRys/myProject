@@ -11,3 +11,5 @@ E:\studies\Term7\C#\lab3\lab3\bin\Debug\Mono.Security.dll
 E:\studies\Term7\C#\lab3\lab3\bin\Debug\Npgsql.dll
 E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.exe
 E:\studies\Term7\C#\lab3\lab3\obj\x86\Debug\lab3.pdb
+D:\studies\Term8\Software engineering\gitProjects\lab3\obj\x86\Debug\lab3.exe
+D:\studies\Term8\Software engineering\gitProjects\lab3\obj\x86\Debug\lab3.pdb
