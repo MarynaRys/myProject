@@ -15,6 +15,7 @@ namespace lab3
         private string fio;
         private long doctorId;
         private int row;
+        private int row2;
 
         public Patient()
         {
