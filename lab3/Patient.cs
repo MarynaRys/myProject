@@ -17,6 +17,8 @@ namespace lab3
         private int row;
         private int row2;
         private int row5;
+        private int row9;
+
 
         public Patient()
         {
